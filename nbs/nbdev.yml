@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "msc-quantum-magnetic-2024"
+  site-url: "https://andreamunafo.github.io/msc-quantum-magnetic-2024"
+  description: "Repository containing MSc results and analysis on Quantum Magnetic Navigation"
+  repo-branch: main
+  repo-url: "https://github.com/andreamunafo/msc-quantum-magnetic-2024"
